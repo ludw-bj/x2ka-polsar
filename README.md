@@ -4,7 +4,7 @@
 
 This scarcity of real Ka-band PolSAR data presents a critical challenge for research and development. **Traditional SAR simulators** — both raw signal-based and image-based — struggle to address this issue due to either high complexity or poor fidelity in capturing Ka-band-specific scattering effects.
 
-> 🚀 This project offers a new data-driven path to augmenting Ka-band PolSAR datasets using more readily available X-band data.
+🚀 This project offers a new data-driven path to augmenting Ka-band PolSAR datasets using more readily available X-band data.
 
 ---
 
